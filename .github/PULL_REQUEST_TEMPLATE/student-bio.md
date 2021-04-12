@@ -8,7 +8,7 @@ labels: student-bio
 <!--
   make this PR easy to find:
 
-  - assign: yourself
+  - assign:Hajir-pro
   - milestone: precourse
 -->
 
